@@ -50,7 +50,7 @@
     "react-redux": "5.0.4",
     "redux": "3.6.0",
     "redux-logger": "3.0.1",
-    "webpack": "^2.3.3"
+    "webpack": "^3.0.0"
   },
   "jest": {
     "moduleFileExtensions": [
